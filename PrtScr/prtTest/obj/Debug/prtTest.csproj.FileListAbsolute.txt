@@ -1,0 +1,9 @@
+c:\users\zeroweb19\documents\visual studio 2015\Projects\prtTest\prtTest\bin\Debug\prtTest.exe.config
+c:\users\zeroweb19\documents\visual studio 2015\Projects\prtTest\prtTest\bin\Debug\prtTest.exe
+c:\users\zeroweb19\documents\visual studio 2015\Projects\prtTest\prtTest\bin\Debug\prtTest.pdb
+c:\users\zeroweb19\documents\visual studio 2015\Projects\prtTest\prtTest\obj\Debug\prtTest.csprojResolveAssemblyReference.cache
+c:\users\zeroweb19\documents\visual studio 2015\Projects\prtTest\prtTest\obj\Debug\prtTest.Form1.resources
+c:\users\zeroweb19\documents\visual studio 2015\Projects\prtTest\prtTest\obj\Debug\prtTest.Properties.Resources.resources
+c:\users\zeroweb19\documents\visual studio 2015\Projects\prtTest\prtTest\obj\Debug\prtTest.csproj.GenerateResource.Cache
+c:\users\zeroweb19\documents\visual studio 2015\Projects\prtTest\prtTest\obj\Debug\prtTest.exe
+c:\users\zeroweb19\documents\visual studio 2015\Projects\prtTest\prtTest\obj\Debug\prtTest.pdb
