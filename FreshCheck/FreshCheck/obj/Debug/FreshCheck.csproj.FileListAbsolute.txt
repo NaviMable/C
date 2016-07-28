@@ -1,0 +1,8 @@
+c:\users\zeroweb19\documents\visual studio 2015\Projects\FreshCheck\FreshCheck\bin\Debug\FreshCheck.exe.config
+c:\users\zeroweb19\documents\visual studio 2015\Projects\FreshCheck\FreshCheck\bin\Debug\FreshCheck.exe
+c:\users\zeroweb19\documents\visual studio 2015\Projects\FreshCheck\FreshCheck\bin\Debug\FreshCheck.pdb
+c:\users\zeroweb19\documents\visual studio 2015\Projects\FreshCheck\FreshCheck\obj\Debug\FreshCheck.Form1.resources
+c:\users\zeroweb19\documents\visual studio 2015\Projects\FreshCheck\FreshCheck\obj\Debug\FreshCheck.Properties.Resources.resources
+c:\users\zeroweb19\documents\visual studio 2015\Projects\FreshCheck\FreshCheck\obj\Debug\FreshCheck.csproj.GenerateResource.Cache
+c:\users\zeroweb19\documents\visual studio 2015\Projects\FreshCheck\FreshCheck\obj\Debug\FreshCheck.exe
+c:\users\zeroweb19\documents\visual studio 2015\Projects\FreshCheck\FreshCheck\obj\Debug\FreshCheck.pdb
